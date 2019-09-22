@@ -15,7 +15,7 @@ ve Production branchlerinde azure keyvault kullanımı ele alınmıştır.
 
 Azure key vault iki farklı yaklaşım ile değerlendirilmiştir ; 
 
-1-) dev ve test ortamları için ; azure portaldee oluşturduğunuz uygulamanıza ait 
+1-) dev ve test ortamları için ; azure portalde oluşturduğunuz uygulamanıza ait 
 client-id / client secret  / key-vault bilgileriniz ile api isteği şeklinde azure dan gerekli vault değerlerinizi almak 
 
 2-) production ortamı için ; azure portalde key vault tanımınıza ilgili prod branchinizin (azure üzerinde prod deployment slotu) 
