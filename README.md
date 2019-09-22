@@ -13,6 +13,7 @@ azure üzerinden uygulama içine enjekte edilmesi fikri örneklendirilimiştir v
 ve Production branchlerinde azure keyvault kullanımı ele alınmıştır.
 
 Azure key vault iki farklı yaklaşım ile değerlendirilmiştir ; 
+
 1-) dev ve test ortamları için ; azure portaldee oluşturduğunuz uygulamanıza ait 
 client-id / client secret  / key-vault bilgileriniz ile api isteği şeklinde azure dan gerekli vault değerlerinizi almak 
 
