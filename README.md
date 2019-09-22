@@ -1,6 +1,7 @@
 #DotNetCoreAzureKeyVaultApp
 
-EN : How to Use Azure KeyVault on .Net Core 
+EN : How to Use Azure KeyVault on DotNet Core.
+
 How to access your azure key vault parameters on dotnet core web application. In this example shows us to get your database
 connection string from microsoft azure key vault to dotnet core web app. There are two approaches;
 first how to access your azure key vault  parameters on development and staging environments with your azure client-id, client-secret and key-vault secrets.
