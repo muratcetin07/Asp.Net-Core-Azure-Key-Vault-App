@@ -45,15 +45,6 @@ namespace AppConfiguration
             }
         }
 
-        public static string YourConnectionSecret
-        {
-            get
-            {
-                var result = GetConfiguration("DbConnIdentifier");
-                return result;
-            }
-        }
-
         public static class AzureKeyVaultUseClientApi
         {
             static IConfigurationSection section = GetSection("AzureKeyVaultUseClientApi");
